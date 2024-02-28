@@ -52,7 +52,7 @@ Contribuidor: https://github.com/DarkRB
 ## Teste de markdown de código:
 
 ```javascript
-function soma(a+b){
+function soma(a+b) {
     return a + b;
 }
 ```
