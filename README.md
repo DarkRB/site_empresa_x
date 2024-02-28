@@ -48,3 +48,11 @@ Contribuidor: https://github.com/DarkRB
 ### Teste de link com imagem:
 
 [![Logo do PHP](https://cdn-icons-png.flaticon.com/512/5968/5968332.png)](https://github.com/DarkRB)
+
+## Teste de markdown de código:
+
+```javascript
+function soma(a+b){
+    return a + b;
+}
+```
