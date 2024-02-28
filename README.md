@@ -44,3 +44,7 @@ __Melhoria 1__, _melhoria 2_
 [https://www.google.com](https://www.google.com)
 
 Contribuidor: https://github.com/DarkRB
+
+### Teste de link com imagem:
+
+[![Logo do PHP](https://cdn-icons-png.flaticon.com/512/5968/5968332.png)](https://github.com/DarkRB)
